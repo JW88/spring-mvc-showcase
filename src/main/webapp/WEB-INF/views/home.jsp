@@ -40,11 +40,8 @@
 			See the <code>org.springframework.samples.mvc.simple</code> package for the @Controller code
 		</p>
                  <p>
-                        I am adding this extra line
+                        original line - modified
                  </p>
-<p>
-This is the second line to be added - it was already here...wtf?
-</p>
 		<ul>
 			<li>
 				<a id="simpleLink" class="textLink" href="<c:url value="/simple" />">GET /simple</a>
